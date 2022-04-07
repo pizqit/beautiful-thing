@@ -1,0 +1,77 @@
+console.log ("a beautiful thing" != "perfect")
+
+do {
+You = "the reader"
+Sorrow = "tragedy";   //e.g. betrayal, distrust, disappointment, sad memories
+Happiness = "happy memories";
+}
+while (You="in your head")
+{
+  If (Happiness <= Sorrow)
+    {
+    someone.get (better-friends);
+    }
+  elseif (Happiness>Sorrow)
+    {
+    //There are points of contact where Happiness begins to bleed into Sorrow
+    if (Sorrow & Happiness) //coexist in your brain
+    then (You += "are able to see the bigger picture");
+
+    switch (friends)
+      {
+      case DISSOCIATION:
+          System.out.println ("are not family.");
+          //because there is a choice
+          //not bound by family reunions and obligatory holiday calls
+          //interaction != expose their Sorrow
+          break;
+
+      case MUTUAL_AFFECTION:
+          System.out.println ("are not lovers.");
+          //they do not cling to You dearly
+          //fixating solely on your Happiness
+          //ignoring your blatant Sorrow
+          break;
+
+      case RECIPROCITY:
+          System.out.println ("are unique individuals.");
+          //those who see You for everything You are
+          //tempering Happiness with reminders of your shortcomings and awkward interactions
+          //and yet remain by your side, supportive during Sorrow despite their teasing
+          break;
+
+        default:
+          System.out.println ("accept You.")
+          //your obsessive tendencies, your strange habits, and your specific humor
+          //not out of any sense of duty or chemical compulsion
+          //because they genuinely enjoy You
+          //respect your qualities
+          //share in your Happiness
+          //feel comfortable in your company
+          //because they share a connection with You that is not tied to anything but yourselves
+          break;
+
+      }
+
+      try {
+        if (youCanFind)
+          {
+          someone.You ("trust");
+          someone.You ("confide in");
+          someone.You ("rely upon");
+        }}
+      catch (Sorrow)
+        {
+        if (Happiness & Sorrow) then (You += "have polluted memories");
+
+        txt= "Your Happiness of a person if frayed around the edges. /n/n";
+        txt+= "Click OK to continue. /n/n";
+        alert(txt);
+        }
+
+    finally
+      {
+      theRealestPeople=concat("when they think of You", "they see the greatest spectrum of You");
+      }
+  }
+}
